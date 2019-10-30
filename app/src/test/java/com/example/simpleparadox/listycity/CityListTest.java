@@ -101,7 +101,6 @@ class CityListTest {
         // Fixed!
         assertEquals(1, cityList.countCities());
 
-
-
     }
+
 }
